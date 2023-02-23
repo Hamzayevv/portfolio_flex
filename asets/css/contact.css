@@ -1,0 +1,51 @@
+.label{
+    clear: both;
+}
+
+.content_area{
+    height: auto;
+
+}
+
+.label{
+    font-size: 1.5vh;
+    color: #999999;
+    margin: 0 2vh;
+}
+
+.input{
+    margin: 0 2vh;
+}
+
+
+.textarea {
+    border: 1px solid rgb(231, 227, 227);
+    margin: 0 2vh;
+    height: 40vh;
+    width: 50vh;
+    
+  }
+  
+
+  .textarea:focus{
+    background-color: #e6e5e5;
+  }
+
+  .submit{
+    background-color: #4aaaa5;
+    border-radius: 8%;
+    border: none;
+    margin: 2vh;
+    padding: 0.5vh 1vh;
+    box-shadow: 0 0 0.4vh;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .submit:hover{
+    background-color: #3e8a86;
+  }
+
+  .submit:active{
+    transform: scale(0.95);
+  }

@@ -1,0 +1,411 @@
+/* 300 - 600 Mobile screen */
+/* 600 - 768 Tablet screen */
+/* 996 - 1200 Notebook */
+/* 1200- Big Notebook */
+
+@media screen and (max-width: 1600px) {
+    .div_body{
+        min-height: 88vh;
+    }
+
+    .div_header{
+        height: 6vh;
+
+    }
+
+    /* .div_logo>a{
+     display: none;
+    } */
+     
+    .header_container{
+        width: 100vh;
+    }
+    .div_logo>a>h1{
+        font-size: 2vh;
+        
+    }
+    
+    .div_nav>ul>li{
+        font-size: 1.5vh;
+        padding: 0.5vh;
+    }
+
+    .main_container{
+        width: 100vh;
+    }
+
+    /* .content_area{
+        width: 70%;
+    } */
+
+    h2{
+        font-size: 2vh;
+    }
+
+    .div_aside{
+        width: 20vh;
+    }
+
+    .div_aside>h2{
+        font-size: 2vh;
+    }
+
+    .network_logo{
+        width: 4vh;
+    }
+     
+    .footer{
+        margin-top: 1vh;
+        height: 4vh;
+    }
+    h6{
+        font-size: 1vh;
+    }
+
+    /* portfolio */
+
+    .cart_div{
+        width: 28vh;
+    }
+    .cart_name{
+        top:17vh;
+        height:2vh
+    }
+
+    h5{
+        padding-top:1vh ;
+    }
+
+    /* About */
+
+
+    .fh_img{
+        width: 15vh;
+    }
+
+    .para{
+        font-size: 1.5vh;
+    }
+
+}
+
+@media screen and (max-width: 1250px) {
+    .div_body{
+        min-height: 93vh;
+    }
+
+    .div_header{
+        height: 4vh;
+
+    }
+
+    /* .div_logo>a{
+     display: none;
+    } */
+     
+    .header_container{
+        width: 80vh;
+    }
+    .div_logo>a>h1{
+        font-size: 1vh;
+        
+    }
+    
+    .div_nav>ul>li{
+        font-size: 1vh;
+        padding: 0.5vh;
+    }
+
+    .main_container{
+        width: 80vh;
+    }
+
+    /* .content_area{
+        width: 70%;
+    } */
+
+    h2{
+        font-size: 2vh;
+    }
+
+    .div_aside{
+        width: 15vh;
+    }
+
+    .div_aside>h2{
+        font-size: 2vh;
+    }
+
+    .network_logo{
+        width: 3vh;
+    }
+     
+    .footer{
+        margin-top: 0.5vh;
+        height: 2vh;
+        border-top: 0.5vh solid #4aaaa5;
+    }
+    h6{
+        font-size: 0.7vh;
+    }
+
+    /* portfolio */
+
+    .cart_div{
+        width: 22vh;
+    }
+    .cart_name{
+        top:13vh;
+        height:2vh
+    }
+
+    h5{
+        padding-top:0.5vh ;
+    }
+
+    /* About */
+
+
+    .fh_img{
+        width: 12vh;
+    }
+
+    .para{
+        font-size: 1.2vh;
+    }
+
+}
+
+
+@media screen and (max-width: 1015px) {
+    .div_body{
+        min-height: 96vh;
+    }
+
+    .div_header{
+        height: 2.8vh;
+
+    }
+
+    /* .div_logo>a{
+     display: none;
+    } */
+     
+    .header_container{
+        width: 60vh;
+    }
+    .div_logo>a>h1{
+        display: none;
+        
+        
+    }
+    
+    .div_nav>ul>li{
+        font-size: 1vh;
+        padding: 0.5vh;
+    }
+
+    .main_container{
+        width: 60vh;
+    }
+
+    /* .content_area{
+        width: 70%;
+    } */
+
+    h2{
+        font-size: 1vh;
+    }
+
+    .div_aside{
+        width: 13vh;
+    }
+
+    .div_aside>h2{
+        font-size: 1vh;
+    }
+
+    .network_logo{
+        width: 2.5vh;
+    }
+     
+    .footer{
+        margin-top: 0.5vh;
+        height: 2vh;
+        border-top: 0.5vh solid #4aaaa5;
+    }
+    h6{
+        font-size: 0.7vh;
+    }
+
+    /* portfolio */
+    .content_item{
+        justify-content: center;
+
+    }
+
+    .cart_div{
+        width: 22vh;
+        margin: 1vh;
+    }
+    .cart_name{
+        top:13vh;
+        height:2vh
+    }
+
+    h5{
+        padding-top:0.5vh ;
+    }
+
+    /* About */
+
+
+    .fh_img{
+        width: 12vh;
+    }
+
+    .para{
+        font-size: 1.2vh;
+    }
+
+    /* contact */
+
+    .label{
+        font-size: 0.8vh;
+    }
+
+    .input{
+        margin: 0 1vh;
+    }
+
+    .textarea {
+        border: 1px solid rgb(231, 227, 227);
+        margin: 0 1vh;
+        height: 20vh;
+        width: 30vh;
+        
+      }
+
+      .submit{
+
+      }
+}
+
+
+
+@media screen and (max-width: 750px) {
+    .div_body{
+        min-height: 96vh;
+    }
+
+    .div_header{
+        height: 2vh;
+
+    }
+
+    /* .div_logo>a{
+     display: none;
+    } */
+     
+    .header_container{
+        width: 40vh;
+    }
+    .div_logo>a>h1{
+        display: none;
+        
+        
+    }
+    
+    .div_nav>ul>li{
+        font-size: 0.7vh;
+        padding: 0.5vh;
+    }
+
+    .main_container{
+        width: 40vh;
+    }
+
+    /* .content_area{
+        width: 70%;
+    } */
+
+    h2{
+        font-size: 1vh;
+    }
+
+    .div_aside{
+        width: 5vh;
+        justify-content: center;
+        
+    }
+
+    .div_aside>h2{
+        font-size: 1vh;
+    }
+
+    .network_logo{
+        width: 3vh;
+    }
+     
+    .footer{
+        margin-top: 0.5vh;
+        height: 2vh;
+        border-top: 0.5vh solid #4aaaa5;
+    }
+    h6{
+        font-size: 0.7vh;
+    }
+
+    /* portfolio */
+    .content_item{
+        justify-content: center;
+
+    }
+
+    .cart_div{
+        width: 16vh;
+        margin: 1vh;
+    }
+    .cart_name{
+        top:10vh;
+        height:1vh
+    }
+
+    h5{
+        padding-top:0.5vh ;
+        font-size: 0.8vh;
+    }
+
+    /* About */
+
+
+    .fh_img{
+        width: 12vh;
+    }
+
+    .para{
+        font-size: 1.2vh;
+    }
+
+    /* Contact */
+
+    .label{
+        font-size: 0.5vh;
+    }
+
+    .input{
+        margin: 0 0.5vh;
+        width: 4vh;
+        height: 0.4vh;
+    }
+
+    .textarea {
+        border: 1px solid rgb(231, 227, 227);
+        margin: 0 0.5vh;
+        height: 14vh;
+        width: 20vh;
+        
+      }
+
+    
+}

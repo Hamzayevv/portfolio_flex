@@ -1,0 +1,17 @@
+/* .content_item{
+    float: left;  
+}
+ */
+
+.fh_img{
+    width: 20vh;
+    margin: 3vh 1vh 1vh 3vh;
+    float: left;
+}
+
+.para{
+    margin: 3vh;
+    /* vertical-align: middle; */
+    font-size: 2vh
+}
+
